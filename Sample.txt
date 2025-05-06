@@ -1,1 +1,1 @@
-git file_tracking
+git file_tracking 1
